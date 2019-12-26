@@ -1,0 +1,13 @@
+#front-container{
+  background-color: #50d890;
+}
+#middle-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+#bottom-container{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
